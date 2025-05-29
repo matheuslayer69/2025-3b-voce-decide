@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Eagle+Lake&display=swap');
+
+:root {
+    --marrom-escuro: #562c2cff;
+    --laranja: #f2542dff;
+    --creme: #f5dfbbff;
+    --ciano-escuro: #0e9594ff;
+    --azul-estranho: #127475ff;
+    --preto: #000000;
+    --branco: #ffffff;
+    --fonte-primaria: "Cinzel Decorative", serif;
+    --fonte-secundaria: "Eagle Lake", serif;
+
+}
