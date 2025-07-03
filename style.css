@@ -16,3 +16,22 @@
     --fonte-secundaria: "Eagle Lake", serif;
 
 }
+body{
+    background-color: var(--ciano-escuro);
+    color: var(--azul-estranho);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: var(--fonte-primaria);
+
+}
+.caixa-principal{
+    background-color: var(--creme);
+    width: 90%;
+    text-align:center;
+    padding: 20px;
+}
+.titulo{
+    font-family: var(--fonte-secundaria);
+}
